@@ -1215,11 +1215,19 @@ p {
 }
 
 .page.text-page:nth-child(15) p {
-  font-size: 14px;
+  font-size: 13px;
+}
+
+.page.text-page:nth-child(16) p {
+  font-size: 18px;
 }
 
 .page.text-page:nth-child(17) p {
-  font-size: 14px;
+  font-size: 16px;
+}
+
+.page.text-page:nth-child(18) p {
+  font-size: 18px;
 }
 
 .page.text-page:nth-child(19) a {
